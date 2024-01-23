@@ -48,8 +48,8 @@ To uninstall, run the following commands:
 
 ## Packages used:
 
-- [SigPy](https://github.com/mikgroup/sigpy) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.5893788.svg)](https://doi.org/10.5281/zenodo.5893788)
+- [SigPy](https://github.com/mikgroup/sigpy)
 
 ## DOI.
-[![DOI](10.1002/mrm.30028)](10.1002/mrm.30028)
+[DOI](10.1002/mrm.30028)
 
