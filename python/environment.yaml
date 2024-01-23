@@ -1,0 +1,19 @@
+name: spiral-recon
+channels:
+- conda-forge
+dependencies:
+- python>=3.9
+- numpy>=1.20.0
+- scipy
+- pip
+- matplotlib
+- jupyter
+- scikit-learn
+- scikit-image
+- tqdm
+- numba
+- pywavelets
+- cupy=11.6.0 # use specific version for some instances e.g. linux
+- nccl # Uncomment for no GPU
+- cudnn # Uncomment for no GPU
+- sympy
