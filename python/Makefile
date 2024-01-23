@@ -8,11 +8,9 @@ update:
 
 pip:
 	pip install git+https://github.com/mikgroup/sigpy.git@main
+	pip install antspyx
 	pip install nibabel
 	pip install opencv-python
-	pip install tensorflow==2.10.1
-	pip install keras==2.10.0  
-
 
 clean:
 	rm -rf __pycache__

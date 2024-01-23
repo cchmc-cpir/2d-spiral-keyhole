@@ -51,5 +51,5 @@ To uninstall, run the following commands:
 - [SigPy](https://github.com/mikgroup/sigpy)
 
 ## DOI.
-[DOI](10.1002/mrm.30028)
+[10.1002/mrm.30028](10.1002/mrm.30028 ERRRRRRORRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR)
 
