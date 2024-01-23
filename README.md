@@ -1,8 +1,8 @@
 # 2d-spiral-keyhole
 [placeholder-until-publishing] A repository that contains reconstruction methods for 2D spiral 129-Xe data, with inclusion of flip angle and N4 corrections. 
 
-- MATLAB simulation scripts can be found in the `\matlab\` folder. 
-- Python in vivo scripts can be found in the `\python\` folder. It is recommended that you set up the Python virtual environment using the instructions below. 
+- MATLAB simulation scripts can be found in the `matlab\` folder. 
+- Python in vivo scripts can be found in the `python\` folder. It is recommended that you set up the Python virtual environment using the instructions below. 
 
 Please post issues to the GitHub repository if you have any questions or improvements.
 
@@ -51,5 +51,5 @@ To uninstall, run the following commands:
 - [SigPy](https://github.com/mikgroup/sigpy) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.5893788.svg)](https://doi.org/10.5281/zenodo.5893788)
 
 ## DOI.
-[![DOI](https://zenodo.org/badge/452385092.svg)](https://zenodo.org/badge/latestdoi/452385092)
+[![DOI](10.1002/mrm.30028)](10.1002/mrm.30028)
 
