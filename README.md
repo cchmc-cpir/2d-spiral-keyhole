@@ -1,5 +1,5 @@
 # 2d-spiral-keyhole
-[placeholder-until-publishing] A repository that contains reconstruction methods for 2D spiral 129-Xe data, with inclusion of flip angle and N4 corrections. 
+A repository that contains reconstruction methods for 2D spiral 129-Xe data, with inclusion of flip angle and N4 corrections. 
 
 - MATLAB simulation scripts can be found in the `matlab\` folder. 
 - Python in vivo scripts can be found in the `python\` folder. It is recommended that you set up the Python virtual environment using the instructions below. 
@@ -27,16 +27,18 @@ Run the following commands in sequence to run the experiments.
    - `nccl`
    - `cupy`
 2. Additionally, if not using an NVIDIA GPU, please set `devnum = -1` for each
-   of the `demo_*.py` files.
+   of the `*.py` files.
 3. When running `make pip`, `pip install git+https://github.com/mikgroup/sigpy.git@main`
    will error if GitHub ssh keys are not set. If this is the case, install SigPy manually.
 
 ## Data.
 
+Sample multi-slice 2D spiral data collected from a healthy participant included inside folder called `data`.
 
 
 ## Run experiments.
 
+Run the scripts inside `matlab` and `python` folders. I recommend using VSCODE with WSL2 for the Python script.
 
 
 ## Uninstall.
@@ -51,5 +53,5 @@ To uninstall, run the following commands:
 - [SigPy](https://github.com/mikgroup/sigpy)
 
 ## DOI.
-[10.1002/mrm.30028](10.1002/mrm.30028 ERRRRRRORRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR)
+[10.1002/mrm.30028](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.30028)
 
