@@ -9,6 +9,15 @@ Please post issues to the GitHub repository if you have any questions or improve
 Written by Joseph Plummer.
 joseph.plummer@cchmc.org
 
+Co-authors:
+Riaz Hussain
+Abdullah Bdaiwi
+Matthew Willmering
+Mariah Costa
+Juan Parra-Robles
+Zackary Cleveland
+Laura Walkup
+
 
 ## Python installation.
 
