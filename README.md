@@ -1,6 +1,8 @@
 # 2d-spiral-keyhole
 A repository that contains reconstruction methods for 2D spiral 129-Xe data, with inclusion of flip angle and N4 corrections. 
 
+![Figure1](Fig1.png)
+
 - MATLAB simulation scripts can be found in the `matlab\` folder. 
 - Python in vivo scripts can be found in the `python\` folder. It is recommended that you set up the Python virtual environment using the instructions below. 
 
