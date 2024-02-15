@@ -10,14 +10,13 @@ Written by Joseph Plummer.
 joseph.plummer@cchmc.org
 
 Co-authors:
-Riaz Hussain
-Abdullah Bdaiwi
-Matthew Willmering
-Mariah Costa
-Juan Parra-Robles
-Zackary Cleveland
-Laura Walkup
-
+1. Riaz Hussain
+2. Abdullah Bdaiwi
+3. Matthew Willmering
+4. Mariah Costa
+5. Juan Parra-Robles
+6. Zackary Cleveland
+7. Laura Walkup
 
 ## Python installation.
 
