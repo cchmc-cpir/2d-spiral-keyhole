@@ -7,7 +7,7 @@ Created on Sat Jun 20 16:47:16 2022
 
 # %% Import packages
 
-import cupy as cp
+# NOTE: Adapted for workstation without GPU
 from skimage.transform import resize
 from scipy.io import savemat
 import ants
@@ -25,7 +25,7 @@ plt.style.use('dark_background')
 
 # %% Reconstruction settings
 
-devnum = 0
+devnum = -1
 device = sp.Device(devnum)
 xp = device.xp
 def mvd(x): return sp.to_device(x, device)
